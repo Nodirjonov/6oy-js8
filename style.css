@@ -1,0 +1,29 @@
+button{
+    border-radius: 10px 0px 10px 0px;
+    border: none;
+    background-color: cornflowerblue;
+    color: darkorchid;
+    width: 100px;
+    height: 22px;
+    transition: 0.5s;
+}
+button:hover{
+    background-color: cyan;
+    color: red;
+}
+input{
+    border-radius: 10px;
+    border: none;
+    background-color: cornflowerblue;
+    color: darkorchid;
+    width: 150px;
+    height: 22px;
+}
+h1{
+    color: cornflowerblue;
+    transition: 0.5s;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1:hover{
+    color: cyan;
+}
